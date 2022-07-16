@@ -1,0 +1,32 @@
+#heading {
+    font-size: 23px;
+    width: 100%;
+    box-shadow: 5px 5px 5px red;
+    }
+    #note{
+        color: black;
+        font-size: 15px;
+    }
+    #disk{
+       height: 100px;
+       width: 100px;
+    }
+    #disk2{
+        height: 100px;
+        width: 100px;
+        float: right;
+     }
+    #divspeed{
+        float:left;
+        
+    }
+    #divvolume{
+        float: right;
+    }
+    #play{
+        font-size: 23px;
+    }
+    canvas{
+        border: 3px dashed rgb(255, 255, 255) ;
+        border-radius: 20px;
+    }
